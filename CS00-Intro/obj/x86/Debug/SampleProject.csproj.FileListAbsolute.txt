@@ -1,0 +1,6 @@
+/home/trofchik/Documents/git/Sharp/SampleProject/SampleProject/bin/Debug/SampleProject.exe
+/home/trofchik/Documents/git/Sharp/SampleProject/SampleProject/bin/Debug/SampleProject.pdb
+/home/trofchik/Documents/git/Sharp/SampleProject/SampleProject/obj/x86/Debug/SampleProject.csprojAssemblyReference.cache
+/home/trofchik/Documents/git/Sharp/SampleProject/SampleProject/obj/x86/Debug/SampleProject.csproj.CoreCompileInputs.cache
+/home/trofchik/Documents/git/Sharp/SampleProject/SampleProject/obj/x86/Debug/SampleProject.exe
+/home/trofchik/Documents/git/Sharp/SampleProject/SampleProject/obj/x86/Debug/SampleProject.pdb

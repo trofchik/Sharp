@@ -1,0 +1,11 @@
+/home/trofchik/Documents/c#/Inheritance/Inheritance/bin/Debug/Inheritance.exe
+/home/trofchik/Documents/c#/Inheritance/Inheritance/bin/Debug/Inheritance.pdb
+/home/trofchik/Documents/c#/Inheritance/Inheritance/obj/x86/Debug/Inheritance.csproj.CoreCompileInputs.cache
+/home/trofchik/Documents/c#/Inheritance/Inheritance/obj/x86/Debug/Inheritance.exe
+/home/trofchik/Documents/c#/Inheritance/Inheritance/obj/x86/Debug/Inheritance.pdb
+/home/trofchik/Documents/c#/sharp/CS01-Inheritance/bin/Debug/Inheritance.exe
+/home/trofchik/Documents/c#/sharp/CS01-Inheritance/bin/Debug/Inheritance.pdb
+/home/trofchik/Documents/c#/sharp/CS01-Inheritance/obj/x86/Debug/Inheritance.csprojAssemblyReference.cache
+/home/trofchik/Documents/c#/sharp/CS01-Inheritance/obj/x86/Debug/Inheritance.csproj.CoreCompileInputs.cache
+/home/trofchik/Documents/c#/sharp/CS01-Inheritance/obj/x86/Debug/Inheritance.exe
+/home/trofchik/Documents/c#/sharp/CS01-Inheritance/obj/x86/Debug/Inheritance.pdb
