@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{23BEEDCB-C23F-4A1F-8962-7752B083C810}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CS02-ASPIntro/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="CS02-ASPIntro/Controllers/HomeController.cs" Line="13" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CS02-ASPIntro PreferredExecutionTarget="firefox" />
+</Properties>

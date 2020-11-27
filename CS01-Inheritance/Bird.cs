@@ -5,7 +5,6 @@ namespace Inheritance
     {
         public Bird(String newName) : base(newName)
         {
-
         }
 
         public override String ToString()
@@ -20,6 +19,13 @@ namespace Inheritance
 
             return output;
         }
+
+		public override void ShowStats()
+		{
+			Console.WriteLine("Name: " + this.GetName());
+			Console.WriteLine("State: " + this.IsAlive());
+			Console.WriteLine("Abilities: walk, fly");
+		}
 
         public void Live()
         {

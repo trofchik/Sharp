@@ -13,7 +13,7 @@ namespace Inheritance
         {
             String output = "";
             output += "This is a human named " + GetName() + ". It can walk " +
-            	"and write JS code or TS code if it evolves. It appears to be ";
+                "and write JS code or TS code if it evolves. It appears to be ";
             if (IsAlive())
                 output += "alive.";
             else
@@ -22,7 +22,14 @@ namespace Inheritance
             return output;
         }
 
-        public void live()
+        public override void ShowStats()
+        {
+            Console.WriteLine("Name: " + this.GetName());
+            Console.WriteLine("State: " + this.IsAlive());
+            Console.WriteLine("Abilities: walk, swiw");
+        }
+
+        public void Live()
         {
             Console.WriteLine("*Writes JS code*");
         }
@@ -32,17 +39,17 @@ namespace Inheritance
             Console.WriteLine("It walks!");
         }
 
-        public void swim()
+        public void Swim()
         {
             Console.WriteLine("*Swims like a human*");
         }
 
-        public void evolve()
+        public void Evolve()
         {
             hasEvolved = true;
         }
 
-        public void liveBetter()
+        public void LiveBetter()
         {
             if (hasEvolved)
                 Console.WriteLine("*Writes TypeScript code*");

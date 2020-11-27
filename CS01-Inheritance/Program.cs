@@ -17,9 +17,31 @@ namespace Inheritance
             ark[1] = human;
             ark[2] = koi;
 
-            foreach (var a in ark)
+            for (int i = 0; i < ark.Length; i++)
             {
-                Console.WriteLine(a.ToString());
+                if (ark[i] is Bird)
+                {
+                    ark[i] = (Bird)ark[i];
+                    ark[i].ShowStats();
+                    Console.WriteLine();
+                    continue;
+                }
+
+                if (ark[i] is Koi)
+                {
+                    ark[i] = (Koi)ark[i];
+                    ark[i].ShowStats();
+                    Console.WriteLine();
+                    continue;
+                }
+
+                if (ark[i] is Human)
+                {
+                    ark[i] = (Human)ark[i];
+                    ark[i].ShowStats();
+                    Console.WriteLine();
+                    continue;
+                }
             }
         }
     }

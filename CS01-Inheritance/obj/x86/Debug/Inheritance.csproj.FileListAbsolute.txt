@@ -9,3 +9,9 @@
 /home/trofchik/Documents/c#/sharp/CS01-Inheritance/obj/x86/Debug/Inheritance.csproj.CoreCompileInputs.cache
 /home/trofchik/Documents/c#/sharp/CS01-Inheritance/obj/x86/Debug/Inheritance.exe
 /home/trofchik/Documents/c#/sharp/CS01-Inheritance/obj/x86/Debug/Inheritance.pdb
+/home/trofchik/Documents/cs/sharp/CS01-Inheritance/obj/x86/Debug/Inheritance.csprojResolveAssemblyReference.cache
+/home/trofchik/Documents/cs/sharp/CS01-Inheritance/obj/x86/Debug/Inheritance.csproj.CoreCompileInputs.cache
+/home/trofchik/Documents/cs/sharp/CS01-Inheritance/obj/x86/Debug/Inheritance.exe
+/home/trofchik/Documents/cs/sharp/CS01-Inheritance/obj/x86/Debug/Inheritance.pdb
+/home/trofchik/Documents/cs/sharp/CS01-Inheritance/bin/Debug/Inheritance.exe
+/home/trofchik/Documents/cs/sharp/CS01-Inheritance/bin/Debug/Inheritance.pdb

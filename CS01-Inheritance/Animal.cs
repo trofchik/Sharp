@@ -44,5 +44,11 @@ namespace Inheritance
 
             return output;
         }
+
+        public virtual void ShowStats()
+        {
+            Console.WriteLine("Name: " + this.GetName());
+            Console.WriteLine("State: " + this.IsAlive());
+        }
     }
 }

@@ -13,7 +13,7 @@ namespace Inheritance
 
     public interface ISwim
     {
-        void swim();
+        void Swim();
     }
 }
 

@@ -20,12 +20,19 @@ namespace Inheritance
             return output;
         }
 
-        public void swim()
+		public override void ShowStats()
+        {
+            Console.WriteLine("Name: " + this.GetName());
+            Console.WriteLine("State: " + this.IsAlive());
+            Console.WriteLine("Abilities: swim");
+        }
+
+        public void Swim()
         {
             Console.WriteLine("*Swims*");
         }
 
-        public void live()
+        public void Live()
         {
             Console.WriteLine("");
         }
