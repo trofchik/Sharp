@@ -21,24 +21,24 @@ namespace Inheritance
             {
                 if (ark[i] is Bird)
                 {
-                    ark[i] = (Bird)ark[i];
-                    ark[i].ShowStats();
+                    Bird temp = (Bird)ark[i];
+                    temp.ShowStats();
                     Console.WriteLine();
                     continue;
                 }
 
                 if (ark[i] is Koi)
                 {
-                    ark[i] = (Koi)ark[i];
-                    ark[i].ShowStats();
+                    Koi temp = (Koi)ark[i];
+                    temp.ShowStats();
                     Console.WriteLine();
                     continue;
-                }
+                }   
 
                 if (ark[i] is Human)
-                {
-                    ark[i] = (Human)ark[i];
-                    ark[i].ShowStats();
+                {   
+                    Human temp = (Human)ark[i];
+                    temp.ShowStats();
                     Console.WriteLine();
                     continue;
                 }
