@@ -1,0 +1,6 @@
+/home/trofchik/Documents/cs/sharp/CS03-CompClone/CS03-CompClone/bin/Debug/CS03-CompClone.exe
+/home/trofchik/Documents/cs/sharp/CS03-CompClone/CS03-CompClone/bin/Debug/CS03-CompClone.pdb
+/home/trofchik/Documents/cs/sharp/CS03-CompClone/CS03-CompClone/obj/x86/Debug/CS03-CompClone.csproj.CoreCompileInputs.cache
+/home/trofchik/Documents/cs/sharp/CS03-CompClone/CS03-CompClone/obj/x86/Debug/CS03-CompClone.exe
+/home/trofchik/Documents/cs/sharp/CS03-CompClone/CS03-CompClone/obj/x86/Debug/CS03-CompClone.pdb
+/home/trofchik/Documents/cs/sharp/CS03-CompClone/CS03-CompClone/obj/x86/Debug/CS03-CompClone.csprojResolveAssemblyReference.cache

@@ -19,6 +19,12 @@ namespace Inheritance
 
             for (int i = 0; i < ark.Length; i++)
             {
+                Type T = ark[i].GetType();
+
+            }
+
+            for (int i = 0; i < ark.Length; i++)
+            {
                 if (ark[i] is Bird)
                 {
                     Bird temp = (Bird)ark[i];
